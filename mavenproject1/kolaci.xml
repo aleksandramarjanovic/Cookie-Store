@@ -1,0 +1,27 @@
+
+<!DOCTYPE cookies [
+<!ATTLIST cookie id ID #IMPLIED >
+]>
+
+ <cookies>
+  <cookie id="5">
+      <name>Scone</name>
+      <price>100.00</price>
+      <description>Ingredients:flour, baking powder, sugar, butter, eggs, milk </description>
+   </cookie>
+    <cookie id="8">
+      <name>Tiramisu</name>
+      <price>200.00</price>
+      <description>Ingredients:espresso, rum, eggs, sugar, vanilla extract, cocoa </description>
+   </cookie>
+     <cookie id="10">
+      <name>Chocolate_Chip</name>
+      <price>300.00</price>
+      <description>Ingredients:flour, leavener, salt, sugar, egg, butter, vanilla </description>
+   </cookie>
+     <cookie id="20">
+      <name>Muffin</name>
+      <price>500.00</price>
+      <description>Ingredients:flour, salt, baking powder, sugar, cinnamon, eggs, butter, vanilla, milk </description>
+   </cookie>
+   </cookies>
