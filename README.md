@@ -1,5 +1,5 @@
 ### Cookie store ###
-*Project using: Java, XML, MySQL, JavaScript, CSS
+Project using: Java, XML, MySQL, JavaScript, CSS
 #### Overview ####
 The idea of the project is that someone sends a catalog of products stored in the xml document.
 The data from xml are parsed and stored in MySQL database.
